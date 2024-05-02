@@ -1,0 +1,6 @@
+Manikanta | 21 | Male | Nalgonda
+Abhishek | 22 | Male | Wanaparthy
+Dileep | 23 | Male | Jagityal
+Tharun | 24 | Male | Nalgonda
+Ramavathar | 25 | Male | Warangal
+Shivashankar | 26 | Male | Nalgonda
